@@ -17,8 +17,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted 
-- List
+- Meeting people in CS
+- Working with student TA's who have already taken classes I am in now and learning from them
+- Learning how to use github 
 
 1. Numbered
 2. List
