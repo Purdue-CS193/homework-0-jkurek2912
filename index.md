@@ -17,7 +17,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted (Hefllo)
+- Bulleted (Hello)
 - List
 
 1. Numbered
